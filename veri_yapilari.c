@@ -2,7 +2,7 @@
 
 // İsim SOYİSİM: YİĞİT ÖZCAN
 // Öğrenci Numarası: 2420171050
-// BTK Akademi Sertifika Bağlantısı: ("GitHub deposundaki PDF dosyasına bakınız")
+// https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=7rptPBODb4
 
 void insertionSort(int dizi[], int n) {
     int i, key, j;
